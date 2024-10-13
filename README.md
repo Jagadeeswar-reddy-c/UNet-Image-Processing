@@ -14,10 +14,6 @@ Ensure you have the following dependencies installed:
 - Jupyter Notebook
 - Keras (if TensorFlow is used as the backend)
   
-You can install the required packages by running:
-```bash
-pip install -r requirements.txt
-```
 
 ## Installation
 1. Clone this repository:
