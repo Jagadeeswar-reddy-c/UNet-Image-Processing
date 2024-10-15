@@ -91,7 +91,7 @@ The U-Net model should output segmented images where the regions of interest are
 
 | Original Image | Segmentation Mask | Prediction |
 |----------------|-------------------|------------|
-| ![image](./images/original.jpg) | ![mask](./images/mask.jpg) | ![predicted](./images/output.png) |
+
 
 Thank you!
 
